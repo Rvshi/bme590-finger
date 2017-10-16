@@ -2,10 +2,13 @@
 
 **Team:** Harvey Shi, Sam Fox, Drew Levy
 
-Client: Chris DeGain, Liberty Commons Nursing and Rehabilitation Center
+**Client:** Duke BME 590L - 003 class, Fall 2017
 
-Project goal: to build a device to objectively measure peak percent of body weight loaded on a recovering limb while walking with upper body support from a  walker, cane, and/or parallel bars. This device should provide real-time feedback to the therapist and patient.
+**Project goal:** To build a device to count the number of finger tremors with the patient's hand extended. We will be using the Arduino Uno microcontroller.
 
-This project is occurring between September 2017 - May 2018.
+**Timeline:** This project is occurring between September - November 2017.
 
-By December 2017, we aim to have a first prototype of our design.
+**CAD:** Note that the CAD work for this project is done in Fusion 360; therefore, the files cannot be easily saved locally. Thus, in lieu of the F360 files, we have included drawings of the CAD enclosure in the ./cad directory. Once the design is ready, we can make our F360 project public.
+
+![Enclosure](./images/enclosure.jpg)
+Figure 1: The basic enclosure design.
