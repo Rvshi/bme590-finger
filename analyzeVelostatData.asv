@@ -1,0 +1,12 @@
+%% analyze Velostat data
+% initial testing: February 18, 2018
+
+%% load data
+
+data = load("test1.txt"); 
+time = data(:,1); 
+voltage = data(:,2); 
+
+%% plot data
+figure(1); clf
+plot(time, voltage)
